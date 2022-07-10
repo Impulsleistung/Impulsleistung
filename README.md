@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kevin
-- 👀 I’m interested in coding and deployment of AI solutions
-- 🌱 I’m currently learning natural language processing
+- 👋 Hi, I’m Kevin Ostheimer
+- 👀 I’m interested in CI/CD, IaaS, Docker and Kubernetes
+- 🌱 I’m currently learning data-science infrastructures
 - 💞️ I’m looking to collaborate on industrial grade solutions
 - 📫 How to reach me www.impulsleistung.de
 
