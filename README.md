@@ -18,8 +18,9 @@
 
 ## Spare time interests
 
-- ☁️ computing
-- 🧘, 🏊, 🧗, 🚵
-- 👓 📖
-- 🇩🇪, 🇪🇺,
-- 学会说话 🇨🇳
+- Development: ☁️ computing
+- Sport: 🧘, 🏊, 🧗, 🚵
+- Reading: 👓 📖
+- Culture: 🇩🇪, 🇪🇺
+- Special activities: 学会说话 🇨🇳
+- Investment thoughts: [📊 *Personal Wikifolio*](https://www.wikifolio.com/en/int/p/impulsleistung?tab=wikifolios)
