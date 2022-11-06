@@ -16,7 +16,8 @@
 
 ![Message me on **WeChat**](wechat_kevin_ostheimer.jpg)
 
-### Spare time interests
+## Spare time interests
+
 - ☁️ computing
 - 🧘, 🏊, 🧗, 🚵
 - 👓 📖
