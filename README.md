@@ -15,4 +15,4 @@
   
 
 Contact me on WeChat / 在微信上联系我
-![Message me on **WeChat**](wechat_kevin_ostheimer.jpg | width=100)
+![Message me on **WeChat**](wechat_kevin_ostheimer.jpg = 100x100)
