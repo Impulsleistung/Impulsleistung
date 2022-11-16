@@ -3,10 +3,15 @@
 - [👔 **Business Profile** including **Certifications**](https://www.linkedin.com/in/kevin-ostheimer/)
 - [⭐ **Great place to work**](https://cariad.technology/)
 
+## My field of operational expertise
+
+- 👨‍🎓Software graduate engineer [University](https://www.hs-pforzheim.de/en/)
+- 🤖Working on machine learning infrastructures in the Volkswagen Group
+- 🇨🇳Participating member of the German-Chinese forum
+
 ## Personal
 
 - [🐦 Listen to my Tweets](https://twitter.com/Impulsleistung)
-- [👨‍🎓 My graduate University](https://www.hs-pforzheim.de/en/)
 - [🤫 I'm also on GitLab](https://gitlab.com/impulsleistung), *stealth mode*
 
 ## Contact
