@@ -5,7 +5,7 @@
 
 ## My field of operational expertise
 
-- 👨‍🎓Software graduate engineer [University](https://www.hs-pforzheim.de/en/)
+- 👨‍🎓Software graduate engineer from [University](https://www.hs-pforzheim.de/en/)
 - 🤖Working on machine learning infrastructures in the Volkswagen Group
 - 🇨🇳Participating member of the German-Chinese forum
 
