@@ -5,9 +5,9 @@
 
 ## My field of operational expertise
 
-- 👨‍🎓Software graduate engineer from [Pforzheim University](https://www.hs-pforzheim.de/en/)
-- 🤖Working on machine learning infrastructures in the Volkswagen Group
-- 🇨🇳Participating member of the German-Chinese forum
+- 👨‍🎓Software and electronics graduate engineer from [Pforzheim University](https://www.hs-pforzheim.de/en/)
+- 🤖Working on ML- DevOps in the Volkswagen Group
+- Participating member of the German-Chinese forum
 
 ## Personal
 
@@ -18,15 +18,12 @@
 ## Contact
 
 - [Reach out to me on **Telegram**](https://t.me/KevinOstheimer)
-- Scan me on **WeChat** / 在微信上联系我
-
-![Message me on **WeChat**](wechat_kevin_ostheimer.jpg)
+- WeChat: kevin-ostheimer
 
 ## Spare time interests
 
-- Development: ☁️ computing
+- Development: ☁️-computing
 - Sport: 🧘, 🏊, 🧗, 🚵
 - Reading: 👓 📖
 - Culture: 🇩🇪, 🇪🇺
-- Special activities: 学会说话 🇨🇳
-- Investment thoughts: [📊 *Personal Wikifolio*](https://www.wikifolio.com/en/int/p/impulsleistung?tab=wikifolios)
+- Special activities: 学会说话
