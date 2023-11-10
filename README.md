@@ -2,6 +2,7 @@
 
 - [👔 **Business Profile** including **Certifications**](https://www.linkedin.com/in/kevin-ostheimer/)
 - [⭐ **Great place to work**](https://cariad.technology/)
+- [🤖 **Me at Stackoverflow**](https://stackoverflow.com/users/1862496/impulsleistung)
 
 ## My field of operational expertise
 
