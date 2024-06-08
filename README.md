@@ -8,7 +8,7 @@
 
 - 👨‍🎓 Software and electronics graduate engineer from [Pforzheim University](https://www.hs-pforzheim.de/en/)
 - 🤖 Working on ML- DevOps in the Volkswagen Group
-- Participating member of the German-Chinese forum
+- 🐼 Participating member of the German-Chinese forum
 
 ## Personal
 
@@ -23,7 +23,7 @@
 
 ## Spare time interests
 
-- Development: ☁️-computing, vehicle backend systems
+- Development: ☁️-computing, vehicle backend systems, backend-stack
 - Sport: 🧘, 🏊, 🧗, 🚵, 🕺
 - Reading: 👓📖
 - Special activities: 学会说话
