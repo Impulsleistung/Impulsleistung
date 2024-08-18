@@ -13,7 +13,7 @@
 ## Personal
 
 - [🐦 Listen to my Tweets](https://twitter.com/Impulsleistung)
-- [🤫 I'm also on GitLab](https://gitlab.com/impulsleistung), *stealth mode*
+- [👋 My SLACK](https://kevinostheimer.slack.com/team/U029CPF0RR7)
 - [🚀 Early adopter of the Agile Manifesto](https://agilemanifesto.org/display/000000159.html) and advocate of [SCRUM](https://www.scrum.org/)
   
 ## Contact
