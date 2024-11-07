@@ -12,8 +12,7 @@
 
 ## Personal
 
-- [⛓️ Verified Blockchain ID](https://www.base.org/name/impulsleistung) *by Coinbase*
-- [🛠️ Verified Blockchain Builder Profile](https://explorer.gitcoin.co/#/projects/0x805b4aaa90684f943fbdca683cf0eb3529807d0379e29046812f9765f0dd994d)
+- [⛓️ Blockchain ID](https://www.base.org/name/impulsleistung) and [🛠️ Verified Builder Profile](https://explorer.gitcoin.co/#/projects/0x805b4aaa90684f943fbdca683cf0eb3529807d0379e29046812f9765f0dd994d)
 - [👋 My SLACK](https://kevinostheimer.slack.com/team/U029CPF0RR7)
 - [🚀 Early adopter of the Agile Manifesto](https://agilemanifesto.org/display/000000159.html) and advocate of [SCRUM](https://www.scrum.org/)
   
